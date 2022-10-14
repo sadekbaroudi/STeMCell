@@ -4,7 +4,7 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [
-      "/SCL",
+      "/RX0",
       "/SWC"
     ],
     "high_contrast_mode": 0,
